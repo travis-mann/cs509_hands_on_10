@@ -1,0 +1,48 @@
+{
+  "StringLibrary.dll": {
+    "D:\\Programming\\CS509\\handson10\\StringLibrary\\Basic.cs": {
+      "StringLibrary.Basic": {
+        "System.Double StringLibrary.Basic::add(System.Double,System.Double)": {
+          "Lines": {
+            "6": 1,
+            "7": 1,
+            "8": 1,
+            "9": 1
+          },
+          "Branches": []
+        },
+        "System.Double StringLibrary.Basic::someOtherFunction(System.Double)": {
+          "Lines": {
+            "12": 1,
+            "13": 1,
+            "14": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "D:\\Programming\\CS509\\handson10\\StringLibrary\\Di.cs": {
+      "StringLibrary.One": {
+        "System.Int32 StringLibrary.One::complexFunction(System.Int32)": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        }
+      },
+      "StringLibrary.Two": {
+        "System.Int32 StringLibrary.Two::f(System.Int32,StringLibrary.IOne)": {
+          "Lines": {
+            "19": 1,
+            "20": 1,
+            "21": 1,
+            "22": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
